@@ -89,6 +89,9 @@ public class Player {
                 TimeUnit.SECONDS.sleep(u_delay);
             }
         }
+		
+		while(true){
+		}
 
         /*
         while(true){
